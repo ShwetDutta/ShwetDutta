@@ -27,5 +27,3 @@ Get better every week, not overnight
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShwetDutta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
