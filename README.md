@@ -1,17 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student based in India, focused on building clean, functional web applications and continuously improving my problem-solving skills.
-
-Right now, I’m working with HTML, CSS, JavaScript, React, and Python, and actively sharpening my fundamentals in Data Structures & Algorithms. I care more about things working reliably than looking flashy, and I prefer simple, readable code over clever shortcuts.
-
-Outside of code, I’m disciplined about fitness and consistency — habits that carry over into how I learn and build. I’m currently exploring freelance web development for small businesses and improving my full-stack capabilities step by step.
-
-I’m here to:
-
-Build real projects, not tutorial clutter
-
-Write code I can explain and maintain
-
-Get better every week, not overnight
+I'm currently pursuing my BTech IT in Sathyabama Institute of Science and Technology<br>Learning MERN Stack<br>Have a foundation of DSA
 
 
 ## 🌐 Socials:
@@ -27,3 +15,10 @@ Get better every week, not overnight
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShwetDutta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShwetDutta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ShwetDutta&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
